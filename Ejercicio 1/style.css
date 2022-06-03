@@ -1,0 +1,29 @@
+/*tipografia h1*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+/*h1 = tipografia, tamaño y color de letra
+ *span = color de fondo*/
+h1 {font-family: 'Poppins', sans-serif;}
+h1 {font-size:78,6px;}
+h1 {color:#0a2ff1}
+span {background-color: #3ffff3;}
+
+/*p = tipografia, tamaño y color de letra*/
+p {font-family: 'Poppins', sans-serif;}
+p {font-size:30,6px;}
+p {color:#0a2ff1}
+
+img { width: 200px;height:auto;}
+
+div
+    { 
+         width: 350px; height:auto;
+         background-image: url("imagen/fondo.JPG");
+         background-position: right;
+         background-repeat:no-repeat; 
+         background-color:#8a9af1;
+    }
+
+
+
